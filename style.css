@@ -13,7 +13,7 @@ h1 {
 
 /* 選單 */
 .navigation ul {
-    background-color: #fff7d6;
+    background-color: #fe9000;
     margin: 0;
     padding: 4px;
     text-align: center;
@@ -92,7 +92,7 @@ th,td {
     padding: 16px;
 }
 th {
-    background-color: #62d5e8;
+    background-color: #fe9000;
 }
 
 /* 作品集 */
